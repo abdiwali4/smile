@@ -1,2 +1,2 @@
-# smile
+# smile-repository
 my first repository
